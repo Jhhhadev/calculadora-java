@@ -2,7 +2,7 @@
 
 Calculadora simples em Java, feita como projeto de estudo seguindo o tutorial do YouTube:
 
-📺 Criando uma calculadora básica com Java — canal Stephanie Santos
+Criando uma calculadora básica com Java — canal Stephanie Santos
 
 ## Sobre o projeto
 
@@ -24,7 +24,7 @@ Este projeto foi criado para praticar os conceitos básicos de programação e t
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/calculadora-java.git
+   git clone https://github.com/Jhhhadev/calculadora-java.git
    ```
 2. Abra a pasta do projeto no IntelliJ IDEA.
 3. Execute a classe `Main`.
